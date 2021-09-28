@@ -1,0 +1,15 @@
+{
+  "name": "timemeeting",
+  "version": "1.0.0",
+  "description": "eventEmitter exercise",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js --coverage"
+  },
+  "keywords": [
+    "eventEmitter"
+  ],
+  "author": "Robby",
+  "license": "ISC"
+}
